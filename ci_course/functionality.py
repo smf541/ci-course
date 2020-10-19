@@ -41,6 +41,3 @@ def minimum(*args):
             the_min = min(the_min, arg)
 
     return the_min
-
-res = minimum('hello')
-print(res)
